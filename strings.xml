@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StayFocused</string>
+    <string name="a11y_desc">StayFocused uses this to detect which app is open (for app time limits) and to read the browser search box (for keyword focus triggers). Nothing leaves your phone.</string>
+</resources>
